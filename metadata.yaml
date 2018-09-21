@@ -1,0 +1,43 @@
+_repo: Letters-to-Madame-Hanska-born-Countess-Rzewuska-afterwards-Madame-Honore-de-Balzac-1833-1846_54466
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wormeley, Katharine Prescott
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '661'
+    url: http://www.gutenberg.org/2009/agents/661
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_Prescott_Wormeley
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - Saint-Aubin, Horace de
+    - De Balzac, Honoré
+    - Balzac, Honore de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '2017-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Balzac, Honoré de, Madame, approximately 1800-1881 or 1882 -- Correspondence'
+- !lcsh 'Balzac, Honoré de, 1799-1850 -- Correspondence'
+- !lcsh 'Authors, French -- 19th century -- Correspondence'
+- !lcc 'PQ'
+- GITenberg
+title: Letters to Madame Hanska, born Countess Rzewuska, afterwards Madame Honoré
+  de Balzac, 1833-1846
+url: http://www.gutenberg.org/ebooks/54466
